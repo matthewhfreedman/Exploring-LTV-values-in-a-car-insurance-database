@@ -4,7 +4,7 @@ As a digital marketer I know that predicting the lifetime value of customers bas
 
 ## DATA
 
-I found a dataset below which had been posted on Kaggle. It had previous been hosted on the IBM website however it has since beeen removed. It has lifetime values as one of the columns along with other columns associated with car insurance, e.g. car size, income and policy level. The link to the dataset is here
+I found a dataset which I linked to below which had been posted on Kaggle. It had previous been hosted on the IBM website however it has since beeen removed. It has lifetime values as one of the columns along with other columns associated with car insurance, e.g. car size, income and policy level. The link to the dataset is here
 https://www.kaggle.com/datasets/pankajjsh06/ibm-watson-marketing-customer-value-data/data
 Note that I developed the models without looking how other people had approached the dataset. I may, once published look at how others approached it.
 
@@ -41,6 +41,7 @@ After testing different models, and then testing hyperparameters we have acheive
 ## CONTACT DETAILS
 
 My name is Matthew Freedman and I can be contacted on matthewfreedman@hotmail.co.uk. Please follow me on Linkedin at https://www.linkedin.com/in/matthewppc/
+
 
 
 
